@@ -1,2 +1,2 @@
-# ws-chat-
-A web chat application using Websockets 
+# ws-chat
+> A web chat application using Websockets 
